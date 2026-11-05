@@ -21,7 +21,7 @@ Teams of 2 to 4 students. Submit via GitHub using our template.
 
 ## How to Submit (Track B)
 
-1. Open the submission template: [INSERT TEMPLATE REPO LINK]
+1. Open the submission template: https://github.com/asama-hackathon/track-b-submission-template
 2. Click **Use this template**, then **Create a new repository**
 3. Name your repository: `asama26-[your-team-name]`
 4. Set visibility to **Public**
